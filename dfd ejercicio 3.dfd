@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+72
+'calcular el salario netodespues de aplicardeducciones y bonificaciones'
+5
+1
+45
+salario_bruto , tasa_deduccion , bonificacion
+6
+2
+9
+deduccion
+37
+salario_bruto *  tasa_deduccion / 100
+12
+salario_neto
+42
+ salario_bruto + bonificacion -  deduccion
+4
+1
+12
+salario_neto
+1

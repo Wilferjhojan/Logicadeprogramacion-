@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+60
+'calcular el costo total de productos con descuento y envio'
+5
+1
+57
+costo_producto1, costo_producto2, descuento,  costo_envio
+6
+3
+8
+subtotal
+33
+costo_producto1 + costo_producto2
+19
+descuento_aplicado 
+30
+subtotal * ( descuento / 100 )
+6
+total 
+43
+subtotal - descuento_aplicado + costo_envio
+4
+1
+5
+total
+1

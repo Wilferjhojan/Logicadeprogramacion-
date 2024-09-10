@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+128
+'calcular el costo total de un paquete de vacaciones con impuestos, descuentos estacionales, y cargos por servicios adicionales'
+5
+1
+86
+precio_base_paquete, tasa_impuesto, descuento_estacional, cargos_servicios_adicionales
+6
+3
+15
+monto_descuento
+48
+precio_base_paquete * descuento_estacional / 100
+20
+precio_con_descuento
+37
+precio_base_paquete - monto_descuento
+14
+monto_impuesto
+42
+precio_con_descuento * tasa_impuesto / 100
+6
+3
+19
+precio_con_impuesto
+37
+precio_con_descuento + monto_impuesto
+27
+total_servicios_adicionales
+34
++ ( cargos_servicios_adicionales )
+12
+precio_final
+50
+precio_con_impuesto + total_servicios_adicionales 
+4
+1
+12
+precio_final
+1

@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+60
+'calcular el costo total de una cena con propina y servicio'
+5
+1
+39
+costo_cena, tasa_propina, tasa_servicio
+6
+3
+7
+propina
+31
+costo_cena * tasa_propina / 100
+8
+servicio
+32
+costo_cena * tasa_servicio / 100
+10
+total_cena
+31
+costo_cena + propina + servicio
+4
+1
+10
+total_cena
+1

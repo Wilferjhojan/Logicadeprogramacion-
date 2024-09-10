@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+66
+'calcular el total de un recibo con descuentoy porcentaje de IVA' 
+5
+1
+38
+precio_original,  descuento,  tasa_iva
+6
+3
+20
+precio_con_descuento
+59
+precio_original - ( precio_original * ( descuento / 100 ) )
+3
+iva
+41
+precio_con_descuento * ( tasa_iva / 100 )
+12
+total_recibo
+26
+precio_con_descuento + iva
+4
+1
+12
+total_recibo
+1

@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+58
+'calcular el valor presente de una serie de pagos futuros'
+5
+1
+37
+pago_futuro, tasa_descuento, periodos
+6
+1
+14
+valor_presente
+59
+pago_futuro / ( 1 + ( tasa_descuento  /  100 ) ) ^ periodos
+4
+1
+14
+valor_presente
+1

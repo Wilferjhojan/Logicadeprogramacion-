@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+64
+'calcular el valor futuro de una invesion con interes compuesto'
+5
+1
+54
+capital_inicial , tasa_interes_anual , tiempo_anos , n
+6
+1
+5
+monto
+69
+capital_inicial * 1 + tasa_interes_anual / 100 / n ^ n * tiempo_anos 
+4
+1
+5
+monto
+1

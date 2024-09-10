@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+72
+'calcular el precio de un productocon dos tasas de impuestos diferentes'
+5
+1
+35
+precio_base, impuesto_1, impuesto_2
+6
+3
+16
+monto_impuesto_1
+30
+precio_base * impuesto_1 / 100
+21
+precio_con_impuesto_1
+30
+precio_base + monto_impuesto_1
+16
+monto_impuesto_2
+40
+precio_con_impuesto_1 + impuesto_2 / 100
+6
+1
+12
+precio_final
+40
+precio_con_impuesto_1 + monto_impuesto_2
+4
+1
+12
+precio_final
+1

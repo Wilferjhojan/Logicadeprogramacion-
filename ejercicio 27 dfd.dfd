@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+72
+'determinar el saldo de una cuenta después de aplicar pagos y depósitos'
+5
+1
+31
+saldo_inicial, pagos, depositos
+6
+1
+11
+saldo_final
+33
+saldo_inicial - pagos + depositos
+4
+1
+11
+saldo_final
+1

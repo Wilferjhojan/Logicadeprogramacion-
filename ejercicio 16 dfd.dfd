@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+84
+'calcular el promedio de horas trabajadas semanales y determinar el salario semanal'
+5
+1
+84
+horas_lunes, horas_martes, horas_miercoles, horas_jueves, horas_viernes, tarifa_hora
+6
+2
+12
+total_horas 
+75
+horas_lunes + horas_martes + horas_miercoles + horas_jueves + horas_viernes
+16
+salario_semanal 
+25
+total_horas * tarifa_hora
+4
+1
+15
+salario_semanal
+1

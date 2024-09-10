@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+76
+'calcular el precio de venta con una tasa de descuento y un cargo adicional'
+5
+1
+48
+precio_original, tasa_descuento, cargo_adicional
+6
+2
+21
+precio_con_descuento 
+64
+precio_original - ( precio_original * ( tasa_descuento / 100 ) )
+13
+precio_final 
+38
+precio_con_descuento + cargo_adicional
+4
+1
+12
+precio_final
+1

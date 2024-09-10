@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+70
+'convertir una cantidad de dinero de una moneda a otra tasa de cambio'
+5
+1
+27
+monto_original, tasa_cambio
+6
+1
+16
+monto_convertido
+28
+monto_original * tasa_cambio
+4
+1
+16
+monto_convertido
+1

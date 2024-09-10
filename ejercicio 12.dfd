@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+63
+'calcular la fecha de vencimiento de un contrato sumando meses'
+5
+1
+27
+fecha_inicio, meses_a_sumar
+6
+1
+17
+fecha_vencimiento
+28
+fecha_inicio + meses_a_sumar
+4
+1
+17
+fecha_vencimiento
+1

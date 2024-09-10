@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+61
+'calcular el costo final de una cena con propina e impuestos'
+5
+1
+36
+costo_comida, tasa_propina, tasa_iva
+6
+3
+7
+propina
+33
+costo_comida * tasa_propina / 100
+17
+costo_con_propina
+22
+costo_comida + propina
+3
+iva
+34
+costo_con_propina * tasa_iva / 100
+6
+1
+5
+total
+23
+costo_con_propina + iva
+4
+1
+5
+total
+1

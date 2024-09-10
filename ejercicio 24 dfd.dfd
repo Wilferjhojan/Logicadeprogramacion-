@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+71
+'calcular el total de una factura con impuestos, descuentos y propinas'
+5
+1
+48
+monto_factura, tasa_descuento, tasa_iva, propina
+6
+3
+10
+descuento 
+40
+monto_factura * ( tasa_descuento / 100 )
+9
+subtotal 
+25
+monto_factura - descuento
+3
+iva
+29
+subtotal * ( tasa_iva / 100 )
+6
+1
+14
+total_factura 
+24
+subtotal + iva + propina
+4
+1
+13
+total_factura
+1

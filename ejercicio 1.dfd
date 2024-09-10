@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+66
+'calcular el costo total de una compra con impuestos y descuentos'
+5
+1
+43
+precio_original , tasa_descuento , tasa_iva
+6
+3
+9
+descuento
+39
+precio_original * tasa_descuento  / 100
+20
+precio_con_descuento
+27
+precio_original - descuento
+3
+iva
+31
+precio_con_descuento + tasa_iva
+6
+1
+13
+total_con_iva
+26
+precio_con_descuento + iva
+4
+1
+13
+total_con_iva
+1

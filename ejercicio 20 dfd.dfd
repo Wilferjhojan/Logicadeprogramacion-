@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+55
+'calcular el valor de una inversión con interés simple'
+5
+1
+29
+capital, tasa_interes, tiempo
+6
+2
+7
+interes
+41
+capital * ( tasa_interes / 100 ) * tiempo
+13
+valor_futuro 
+17
+capital + interes
+4
+1
+12
+valor_futuro
+1

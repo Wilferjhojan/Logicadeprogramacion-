@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+70
+'calcular el promedio de calificaciones con ajustes por participacion'
+5
+1
+70
+calif1, calif2, calif3, participacion1, participacion2, participacion3
+6
+1
+17
+promedio_ajustado
+147
+( ( calif1 * participacion1 ) + ( calif2 * participacion2 ) + ( calif3 * participacion3 ) ) / (  participacion1 + participacion2 + participacion3 )
+4
+1
+17
+promedio_ajustado
+1

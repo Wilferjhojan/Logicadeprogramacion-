@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+89
+'calcular el precio final de un vehiculo con impuesto de lujo costo adicional del seguro'
+5
+1
+45
+precio_base, tasa_impuesto_lujo, costo_seguro
+6
+3
+14
+monto_impuesto
+38
+precio_base * tasa_impuesto_lujo / 100
+19
+precio_con_impuesto
+28
+precio_base + monto_impuesto
+12
+precio_final
+34
+precio_con_impuesto + costo_seguro
+4
+1
+12
+precio_final
+1

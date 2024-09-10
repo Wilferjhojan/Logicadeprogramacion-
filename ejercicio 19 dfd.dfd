@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+62
+'determinar el salario mensual después de aplicar horas extra'
+5
+1
+44
+salario_base, horas_extra, tarifa_hora_extra
+6
+2
+17
+pago_horas_extra 
+31
+horas_extra * tarifa_hora_extra
+15
+salario_mensual
+31
+salario_base + pago_horas_extra
+4
+1
+15
+salario_mensual
+1

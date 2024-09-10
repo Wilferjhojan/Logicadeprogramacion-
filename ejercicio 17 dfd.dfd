@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+63
+'calcular el precio total de varios articulos con iva incluido'
+5
+1
+47
+precio_art1, precio_art2, precio_art3, tasa_iva
+6
+3
+9
+subtotal 
+39
+precio_art1 + precio_art2 + precio_art3
+3
+iva
+30
+subtotal * ( tasa_iva  / 100 )
+5
+total
+14
+subtotal + iva
+4
+1
+5
+total
+1

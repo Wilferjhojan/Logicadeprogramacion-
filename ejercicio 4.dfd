@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+73
+'calcular el totalde ventas despues de aplicar un porcentaje de comision'
+5
+1
+31
+ventas_totales , tasa_comision 
+6
+2
+8
+comision
+37
+ventas_totales * tasa_comision  / 100
+13
+total_a_pagar
+25
+ventas_totales + comision
+4
+1
+13
+total_a_pagar
+1

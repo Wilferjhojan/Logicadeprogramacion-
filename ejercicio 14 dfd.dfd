@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+68
+'calcular el costo total de un viaje considerando gasolina y peajes'
+5
+1
+32
+kilometros, costo_por_km, peajes
+6
+2
+15
+costo_gasolina 
+25
+kilometros * costo_por_km
+11
+costo_total
+23
+costo_gasolina + peajes
+4
+1
+11
+costo_total
+1

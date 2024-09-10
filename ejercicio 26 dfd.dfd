@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+100
+'calcular el rendimiento de una inversión a lo largo de varios años con diferentes tasas de interés'
+5
+1
+59
+capital_inicial, tasa_interes1, tasa_interes2, anos1, anos2
+6
+2
+12
+valor_anos1 
+57
+capital_inicial * ( 1 + ( tasa_interes1 / 100 ) ) ^ anos1
+13
+valor_futuro 
+53
+valor_anos1 * ( 1 + ( tasa_interes2 / 100 ) ) ^ anos2
+4
+1
+12
+valor_futuro
+1

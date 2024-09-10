@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+78
+'calcular el saldo de un préstamo después de pagos y acumulación de intereses'
+5
+1
+56
+saldo_inicial, pago_mensual, tasa_interes_mensual, meses
+6
+3
+5
+saldo
+13
+saldo_inicial
+7
+interes
+38
+saldo * ( tasa_interes_mensual / 100 )
+5
+saldo
+30
+saldo + interes - pago_mensual
+4
+1
+5
+saldo
+1

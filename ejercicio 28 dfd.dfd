@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+80
+'calcular el tiempo total en minutos para realizar un proyecto basado en tareas'
+5
+1
+43
+tiempo_tarea1, tiempo_tarea2, tiempo_tarea3
+6
+1
+12
+tiempo_total
+45
+tiempo_tarea1 + tiempo_tarea2 + tiempo_tarea3
+4
+1
+12
+tiempo_total
+1

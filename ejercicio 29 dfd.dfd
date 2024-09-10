@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+66
+'calcular el promedio de velocidad basado en distancias y tiempos'
+5
+1
+40
+distancia1, tiempo1, distancia2, tiempo2
+6
+1
+19
+velocidad_promedio 
+53
+( distancia1 / tiempo1 + distancia2 / tiempo2 )  /  2
+4
+1
+18
+velocidad_promedio
+1

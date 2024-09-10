@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+76
+'calcular el valor total de una compra con promociones y costos adicionales'
+5
+1
+55
+precio_original, descuento_promocional, costo_adicional
+6
+3
+9
+descuento
+49
+precio_original * ( descuento_promocional / 100 )
+21
+precio_con_descuento 
+27
+precio_original - descuento
+5
+total
+38
+precio_con_descuento + costo_adicional
+4
+1
+5
+total
+1

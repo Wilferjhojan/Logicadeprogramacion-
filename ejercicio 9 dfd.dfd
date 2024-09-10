@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+73
+'calcular el promedio ponderado de calificaciones condiferentes creditos'
+5
+1
+52
+calif1, calif2, calif3, credito1, credito2, credito3
+6
+1
+18
+promedio_ponderado
+79
+calif1 * credito1 + calif2 * credito2 + calif3 * credito3 / credito2 + credito3
+4
+1
+18
+promedio_ponderado
+1

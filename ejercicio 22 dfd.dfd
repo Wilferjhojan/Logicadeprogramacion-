@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+87
+'determinar el valor de una propiedad despues de aplicar una tasa de apreciacion anual'
+5
+1
+31
+valor_inicial, tasa_aprec, anos
+6
+1
+13
+valor_futuro 
+51
+valor_inicial * ( 1 + ( tasa_aprec / 100 ) ) ^ anos
+4
+1
+12
+valor_futuro
+1
