@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+9
+descuento
+4
+0.12
+4
+1
+45
+'por favor inserte el valor de los productos'
+5
+1
+10
+p1, p2, p3
+4
+1
+43
+'por favor coloque su edad correspondiente'
+5
+1
+2
+e1
+7
+0
+1
+5
+e1<18
+4
+1
+30
+'no aplicas para el descuento'
+6
+1
+5
+suma1
+12
+p1 + p2 + p3
+4
+1
+5
+suma1
+13
+4
+1
+37
+'si aplicas para el descuento de 12%'
+6
+3
+4
+suma
+13
+p1 + p2 + p3 
+9
+descuento
+16
+suma * descuento
+5
+total
+16
+suma - descuento
+4
+1
+5
+total
+13
+1

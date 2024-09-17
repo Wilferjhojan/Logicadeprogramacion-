@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+9
+descuento
+4
+0.20
+4
+1
+63
+'por favor coloque el valor de sus dos servicios de peluqueria'
+5
+1
+6
+s1, s2
+4
+1
+27
+'por favor coloque su edad'
+5
+1
+2
+e1
+7
+0
+1
+6
+e1>=40
+4
+1
+55
+'en este momento usted no aplica para ningun descuento'
+6
+1
+6
+suma1 
+7
+s1 + s2
+4
+1
+5
+suma1
+13
+4
+1
+63
+'usted en este momento es beneficiario de un descuento del 20%'
+6
+3
+5
+suma 
+6
+s1+ s2
+9
+descuento
+17
+suma  * descuento
+5
+total
+16
+suma - descuento
+4
+1
+5
+total
+13
+1

@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+9
+descuento
+4
+0.10
+4
+1
+62
+'por favor coloque el valor de los dos servicios del gimnasio'
+5
+1
+6
+s1, s2
+4
+1
+26
+'por favor digite su edad'
+5
+1
+2
+e1
+7
+0
+1
+6
+e1>=30
+4
+1
+43
+'no aplicas a ningun descuento actualmente'
+6
+1
+5
+suma1
+7
+s1 + s2
+4
+1
+5
+suma1
+13
+4
+1
+38
+'si aplicas para un descuento del 10%'
+6
+3
+4
+suma
+7
+s1 + s2
+9
+descuento
+16
+suma * descuento
+5
+total
+16
+suma - descuento
+4
+1
+5
+total
+13
+1

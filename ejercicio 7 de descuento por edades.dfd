@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+9
+descuento
+4
+0.50
+4
+1
+43
+'por favor digite el valor de sus entradas'
+5
+1
+6
+e2, e3
+4
+1
+26
+'por favor digite su edad'
+5
+1
+2
+e1
+7
+0
+1
+5
+e1<10
+4
+1
+30
+'no aplicas para el descuento'
+6
+1
+6
+suma1 
+7
+e2 + e3
+4
+1
+6
+suma1 
+13
+4
+1
+37
+'si aplicas para el descuento de 50%'
+6
+3
+4
+suma
+8
+e2 + e3 
+10
+descuento 
+16
+suma * descuento
+5
+total
+16
+suma - descuento
+4
+1
+5
+total
+13
+1

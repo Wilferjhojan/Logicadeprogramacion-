@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+34
+'inserte el valor de los juguetes'
+5
+1
+7
+m1, m2 
+4
+1
+24
+'insertar edad del niño'
+5
+1
+2
+e1
+7
+0
+1
+5
+e1<12
+4
+1
+33
+'no aplicas para el descuento :('
+6
+1
+5
+suma1
+7
+m1 + m2
+4
+1
+5
+suma1
+13
+4
+1
+27
+'si aplica el descuento :)'
+6
+3
+5
+suma 
+7
+m1 + m2
+9
+descuento
+11
+suma * 0.15
+5
+total
+16
+suma - descuento
+4
+1
+5
+total
+13
+1

@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+10
+descuento 
+4
+0.10
+4
+1
+43
+'inserte el valor de sus 2 prendas de ropa'
+5
+1
+6
+p1, p2
+4
+1
+27
+'por favor inserte su edad'
+5
+1
+2
+e1
+7
+0
+1
+5
+e1<25
+4
+1
+30
+'no aplicas para el descuento'
+6
+1
+5
+suma1
+7
+p1 + p2
+4
+1
+5
+suma1
+13
+4
+1
+37
+'si aplicas para el descuento de 10%'
+6
+3
+5
+suma 
+7
+p1 + p2
+9
+descuento
+16
+suma * descuento
+5
+total
+16
+suma - descuento
+4
+1
+5
+total
+13
+1
