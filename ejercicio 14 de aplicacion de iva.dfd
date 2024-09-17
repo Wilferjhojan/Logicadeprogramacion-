@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+3
+iva
+4
+0.20
+4
+1
+46
+'por favor insertar el valor de sus 2 muebles'
+5
+1
+6
+m1, m2
+6
+1
+4
+suma
+7
+m1 + m2
+7
+0
+1
+8
+suma>700
+4
+1
+69
+'su compra no excede los 700 dolares no se le aplicara el 20% de iva'
+4
+1
+4
+suma
+13
+4
+1
+63
+'su compra excede los 700 dolares se le aplicara el 20% de iva'
+6
+2
+3
+iva
+10
+suma * iva
+5
+total
+10
+suma + iva
+4
+1
+5
+total
+13
+1

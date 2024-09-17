@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+3
+iva
+4
+0.14
+4
+1
+62
+'por favor inserte el valor de los dos servicios del gimnasio'
+5
+1
+6
+s1, s2
+6
+1
+4
+suma
+7
+s1 + s2
+7
+0
+1
+8
+suma>200
+4
+1
+82
+'su compra de servicios no excede los 200 dolares no se le aplicara el 14% de iva'
+4
+1
+4
+suma
+13
+4
+1
+63
+'su compra excede los 200 dolares se le aplicara el 14% de iva'
+6
+2
+3
+iva
+10
+suma * iva
+5
+total
+10
+suma + iva
+4
+1
+5
+total
+13
+1
